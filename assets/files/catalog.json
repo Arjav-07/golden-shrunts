@@ -1,0 +1,68 @@
+{
+    "products": [
+        {
+            "id": "1",
+            "name": "Iphone 14 pro ",
+            "description": "Apple iphone 14th generation.",
+            "price": 999.99,
+            "color": "Silver",
+            "imageUrl": "assets/images/iphone.png"
+        },
+        {
+            "id": "2",
+            "name": "Samsung Galaxy S21",
+            "description": "Latest model smartphone .",
+            "price": 499.99,
+            "color": "Black",
+            "imageUrl": "assets/images/s21.png"
+        },
+        {
+            "id": "3",
+            "name": "Apple MacBook M4",
+            "description": "Latest gen slim apple laptop.",
+            "price": 199.99,
+            "color": "Black",
+            "imageUrl": "assets/images/mac.png"
+        },
+        {
+            "id": "4",
+            "name": "Sony PlayStation 5",
+            "description": "Next-gen gaming console.",
+            "price": 499.99,
+            "color": "White",
+            "imageUrl": "assets/images/ps5.png"
+        },
+        {
+            "id": "5",
+            "name": "Airpods Pro 2",
+            "description": " Latest generation wireless earbuds.",
+            "price": 499.99,
+            "color": "White",
+            "imageUrl": "assets/images/earpod.png"
+        },
+        {
+            "id": "6",
+            "name": "Apple Ipad Pro",
+            "description": "Latest generation tablet.",
+            "price": 399.99,
+            "color": "Silver",
+            "imageUrl": "assets/images/ipad.png"
+        },
+        {
+            "id": "7",
+            "name": "Apple iphone 16 Pro",
+            "description": "Apple's latest flagship smartphone.",
+            "price": 1299.99,
+            "color": "Silver",
+            "imageUrl": "assets/images/iphone16.png"
+        },
+        {
+            "id": "8",
+            "name": "Samsung Galaxy S24 Ultra",
+            "description": "Latest Samsung flagship smartphone.",
+            "price": 1199.99,
+            "color": "Titanium Gray",
+            "imageUrl": "assets/images/s24.png"
+        }
+    ]
+}
